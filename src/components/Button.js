@@ -24,16 +24,16 @@ const styles = StyleSheet.create({
         borderRadius: 5,
         borderWidth: 1,
         borderColor: '#007aff',
-        marginLeft: 5,
-        marginRight: 5,
+        marginLeft: wp(1.5),
+        marginRight: wp(1.5),
     },
     textStyle: {
         alignSelf: 'center',
         color: '#007aff',
-        fontSize: 16,
+        fontSize: hp(2.5),
         fontWeight: '600',
-        paddingTop: 10,
-        paddingBottom: 10
+        paddingTop: hp(1.75),
+        paddingBottom: hp(1.75)
     }
 });
 
