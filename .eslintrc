@@ -1,0 +1,7 @@
+{
+    "extends" : "rallycoding",
+    "parserOptions": {
+        "sourceType": "module"
+    }
+
+}
