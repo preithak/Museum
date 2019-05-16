@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "title": "The Starry Night",
     "artist": "Vincent van Gogh",
@@ -42,3 +43,4 @@
     "thumbnail_image": "https://cdn.pixabay.com/photo/2016/09/11/15/39/easter-island-1661655_960_720.jpg"
   }
 ]
+}
