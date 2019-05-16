@@ -17,7 +17,7 @@ class AlbumList extends Component {
 
     //if you want to load json locally
     componentWillMount() {
-        const customData = require('../json/museum.json');
+        const customData = require('../json/items.json');
 
         this.setState({ info: customData.data });
     }
